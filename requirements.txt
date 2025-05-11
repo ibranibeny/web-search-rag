@@ -1,0 +1,10 @@
+openai
+langchain
+langchain-openai
+faiss-cpu
+duckduckgo-search
+playwright
+beautifulsoup4
+nest_asyncio
+selenium
+nest_asyncio
