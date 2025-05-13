@@ -49,7 +49,7 @@ export OPENAI_API_KEY=your_api_key_here   # On Windows: set OPENAI_API_KEY=your_
 You’re now ready to run the CLI script:
 
 ```bash
-python main.py
+python search.py
 ```
 
 ---
